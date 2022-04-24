@@ -73,11 +73,11 @@
 
 <p align=center><img src="./Img/l3_1.png" alt=""></p>
 
-<p align = center>Рисунок 1 – Вход desctop
+<p align = center>Рисунок 1 – Вход
 
 <p align=center><img src="./Img/l3_2.png" alt=""></p>
 
-<p align = center>Рисунок 2 – Регистрация desctop
+<p align = center>Рисунок 2 – Регистрация
 
 3. Создать mock-сервер в Postman
 
