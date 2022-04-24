@@ -71,11 +71,11 @@
 
 2. Сверстать блок регистрации
 
-<p align=center><img src="./img/l3_1.png" alt=""></p>
+<p align=center><img src="./Img/l3_1.png" alt=""></p>
 
 <p align = center>Рисунок 1 – Вход desctop
 
-<p align=center><img src="./img/l3_2.png" alt=""></p>
+<p align=center><img src="./Img/l3_2.png" alt=""></p>
 
 <p align = center>Рисунок 2 – Регистрация desctop
 
@@ -83,36 +83,36 @@
 
 В ходе выполнения работы с помощью Postman был создан Mock Server. Созданный Mock Server представлен на рисунке 3.
 
-<p align=center><img src="./img/l3_2,4.png" alt=""></p>
+<p align=center><img src="./Img/l3_2,4.png" alt=""></p>
 
 <p align = center>Рисунок 3 – Mock Server
 
 В рамках лабораторной работы были созданы два Post запроса.
 В первом случае Post запрос используется для проверки введенного логина и пароля. Реализация запроса изображена на рисунке 4. Результаты его работы показаны на рисунках 5 и 6.
 
-<p align=center><img src="./img/l3_2,5.png" alt=""></p>
+<p align=center><img src="./Img/l3_2,5.png" alt=""></p>
 
 <p align = center>Рисунок 4 – Post запрос
 
-<p align=center><img src="./img/l3_3.png" alt=""></p>
+<p align=center><img src="./Img/l3_3.png" alt=""></p>
 
 <p align = center>Рисунок 5 – Удачный вход
 
-<p align=center><img src="./img/l3_4.png" alt=""></p>
+<p align=center><img src="./Img/l3_4.png" alt=""></p>
 
 <p align = center>Рисунок 6 – Неудачный вход
 
 Во втором случае Post запрос используется для проверки уникальности логина при регистрации. Реализация запроса изображена на рисунке 7. Результаты его работы показаны на рисунках 8 и 9.
 
-<p align=center><img src="./img/l3_4,5.png" alt=""></p>
+<p align=center><img src="./Img/l3_4,5.png" alt=""></p>
 
 <p align = center>Рисунок 7 – Post запрос
 
-<p align=center><img src="./img/l3_5.png" alt=""></p>
+<p align=center><img src="./Img/l3_5.png" alt=""></p>
 
 <p align = center>Рисунок 8 – Удачная регистрация
 
-<p align=center><img src="./img/l3_6.png" alt=""></p>
+<p align=center><img src="./Img/l3_6.png" alt=""></p>
 
 <p align = center>Рисунок 9 – Неудачная регистрация
 
