@@ -51,10 +51,10 @@
 <p align = justify style="text-indent: 25px;">Образец дашборда предствален на рисунке 1. Конечный результат верстки отображен на рисунке 2. Листинг основных компонентов приведен в приложениях А, Б.
 <br><br>
 
-<p align=center><img src=./Img/4_1></p>
+<p align=center><img src=./Img/4_1.png></p>
 <p align = center>Рисунок 1 - Макет дашборда
 <br><br>
-<p align=center><img src=./Img/4_2></p>
+<p align=center><img src=./Img/4_2.png></p>
 <p align = center>Рисунок 2 - Образец готовой верстки
 <br><br>
 
@@ -63,7 +63,7 @@
 <p align = justify style="text-indent: 25px;">
 В ходе выполнения работы были сделана адаптация страницы под мобильные устройства.
 
-<p align=center><img src=./Img/4_3></p>
+<p align=center><img src=./Img/4_3.png></p>
 <p align = center>Рисунок 6 - Адаптация для телефонов
 <br><br>
 
